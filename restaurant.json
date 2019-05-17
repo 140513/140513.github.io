@@ -1,0 +1,14 @@
+{"result":{
+	"count":1,
+	"data":[{
+		"id":1,
+		"name":"Aaa",
+		"address":"Bandung"
+	},
+	{
+		"id":2,
+		"name":"BBB",
+		"address":"Bandung"
+	}]
+	}
+}

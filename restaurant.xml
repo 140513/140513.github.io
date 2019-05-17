@@ -1,0 +1,17 @@
+<result>
+	<count>1</count>
+	<data>
+		<restaurant>
+			<id>1</id>
+			<name>Ampera</name>
+			<address>Bandung</address>
+			<phone ext="021">02279545458</phone>
+		</restaurant>
+		<restaurant>
+			<id>2</id>
+			<name>Hanamasa</name>
+			<address>Jakarta</address>
+			<phone ext="022">02279545458</phone>
+		</restaurant>
+	</data>
+</result>
